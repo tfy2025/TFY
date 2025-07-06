@@ -1,0 +1,14 @@
+[
+  {
+    "id": "0d8da7c1-9987-44ed-8c57-d64267944b29",
+    "name": "Worker Name",
+    "email": "w@gmail.com",
+    "bio": null,
+    "rating": null,
+    "is_available": null,
+    "balance": null,
+    "joined_at": null,
+    "password": "scrypt:32768:8:1$YeMlkwtNbkBGtFLk$f8d40ff4b4cf4201a68fbea8a4359de2bbba375dfcbfd2a4a38a2aa5e079809066e2b634b9b1de4590f5f3cd29c00de4043ae10d9e7c481c709f562b29501680",
+    "phone": "078237823"
+  }
+]

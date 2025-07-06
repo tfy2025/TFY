@@ -1,0 +1,9 @@
+Flask
+flask-cors
+Flask-SQLAlchemy
+SQLAlchemy
+Werkzeug
+Authlib
+deep-translator
+psycopg2-binary
+python-dotenv

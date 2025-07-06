@@ -1,0 +1,52 @@
+[
+  {
+    "id": "u001",
+    "name": "Nguyễn Văn A",
+    "email": "a@example.com",
+    "phone": "0912345678",
+    "password": "hashedpass1",
+    "balance": 100000.0,
+    "created_at": "2025-07-05T16:57:54.727350",
+    "status": "active"
+  },
+  {
+    "id": "u002",
+    "name": "Trần Thị B",
+    "email": "b@example.com",
+    "phone": "0987654321",
+    "password": "hashedpass2",
+    "balance": 50000.0,
+    "created_at": "2025-07-05T16:57:54.727350",
+    "status": "active"
+  },
+  {
+    "id": "u003",
+    "name": "Lê Văn C",
+    "email": "c@example.com",
+    "phone": "0909123456",
+    "password": "hashedpass3",
+    "balance": 0.0,
+    "created_at": "2025-07-05T16:57:54.727350",
+    "status": "inactive"
+  },
+  {
+    "id": "099a2d58-9c7c-444c-a2f2-183a0f509861",
+    "name": "Khánh",
+    "email": "k@gmail.com",
+    "phone": "087327231",
+    "password": "scrypt:32768:8:1$i7b665rWjG1baejY$e4c9284444462d0da5d10749b238fe4832fd2ba6edfe92fcb72c25f8890bfaca443c6f60bf08a3ae636a29e52f67b4a56f5e7cb319e3ed5527ec749ee847c1e1",
+    "balance": null,
+    "created_at": null,
+    "status": null
+  },
+  {
+    "id": "69788fb8-c8b3-4452-b68f-e4c764a52c35",
+    "name": "Khánh Phan",
+    "email": "pvkhanh2609@gmail.com",
+    "phone": "",
+    "password": "scrypt:32768:8:1$vSbRyYy9AyL2YQkI$86bdf1707dfb309a2c6814d5996d29afc4fe5aabadbbcb2206e7735addec9af50c2beb090684295ac4fe866cedecd6b7ce4a345520b850154e12fa559490065d",
+    "balance": null,
+    "created_at": null,
+    "status": null
+  }
+]

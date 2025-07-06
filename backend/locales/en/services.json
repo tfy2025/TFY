@@ -1,0 +1,47 @@
+[
+  {
+    "id": "s001",
+    "title": "Website design",
+    "description": "Modern interface, UX/UI optimization.",
+    "icon": "FaLaptopCode",
+    "price": 5000000.0,
+    "is_active": true,
+    "created_at": "2025-07-05T17:00:06.231833"
+  },
+  {
+    "id": "s002",
+    "title": "App development",
+    "description": "Effective mobile application & security.",
+    "icon": "FaMobileAlt",
+    "price": 8000000.0,
+    "is_active": true,
+    "created_at": "2025-07-05T17:00:06.231833"
+  },
+  {
+    "id": "s003",
+    "title": "Data solution",
+    "description": "Analysis, visual & automation.",
+    "icon": "FaDatabase",
+    "price": 6000000.0,
+    "is_active": true,
+    "created_at": "2025-07-05T17:00:06.231833"
+  },
+  {
+    "id": "s004",
+    "title": "Cloud service",
+    "description": "Cloud server, hosting, data storage.",
+    "icon": "FaCloud",
+    "price": 7000000.0,
+    "is_active": true,
+    "created_at": "2025-07-05T17:00:06.231833"
+  },
+  {
+    "id": "s005",
+    "title": "System consulting",
+    "description": "IT infrastructure optimization for businesses.",
+    "icon": "FaTools",
+    "price": 4000000.0,
+    "is_active": true,
+    "created_at": "2025-07-05T17:00:06.231833"
+  }
+]
