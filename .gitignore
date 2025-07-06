@@ -7,7 +7,6 @@ __pycache__/
 
 # ========== Node.js ==========
 frontend/node_modules/
-frontend/build/
 
 # ========== macOS ==========
 .DS_Store
