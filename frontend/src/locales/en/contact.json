@@ -1,0 +1,11 @@
+{
+  "contact_title": "CONSULTATION REGISTRATION",
+  "contact_name": "Full Name",
+  "contact_email": "Email",
+  "contact_phone": "Phone Number",
+  "contact_service": "Service to Consult",
+  "contact_select": "-- Select service --",
+  "contact_message": "Detailed consultation content",
+  "contact_submit": "Submit",
+  "contact_success": "Submitted successfully! We'll contact you as soon as possible."
+}

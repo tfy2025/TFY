@@ -1,0 +1,21 @@
+{
+  "hero_title": "KHÁM PHÁ TƯƠNG LAI CÙNG TFY",
+  "hero_subtitle": "Giải pháp công nghệ cho doanh nghiệp hiện đại",
+  "hero_button": "Đăng ký / Đăng nhập",
+  "hero_scroll": "↓ Kéo xuống để xem thêm",
+
+  "auth_login": "Đăng nhập",
+  "auth_register": "Đăng ký",
+  "auth_close": "Đóng",
+  "auth_name": "Họ và tên",
+  "auth_email": "Email",
+  "auth_phone": "Số điện thoại",
+  "auth_password": "Mật khẩu",
+  "auth_email_or_phone": "Email hoặc số điện thoại",
+  "auth_or_login_with": "Hoặc đăng nhập bằng",
+  "auth_role": "Vai trò",
+  "role_user": "Người dùng",
+  "role_worker": "Thợ",
+  "already_have_account": "Đã có tài khoản? ",
+  "dont_have_account": "Chưa có tài khoản? "
+}

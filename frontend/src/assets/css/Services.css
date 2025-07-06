@@ -1,0 +1,112 @@
+/* Dịch vụ section */
+.services-section {
+  position: relative;
+  z-index: 2;
+  overflow: visible;
+}
+
+/* Slider container */
+.slick-slider {
+  z-index: 10;
+  position: relative;
+}
+
+/* Các slide */
+.slick-slide {
+  transition: transform 0.3s ease;
+  opacity: 0.6;
+  transform: scale(0.9);
+}
+.slick-center {
+  opacity: 1;
+  transform: scale(1.05);
+}
+
+/* Card chính của dịch vụ */
+.service-card {
+  min-height: 180px;
+  border: none;
+  border-radius: 12px;
+  transition: box-shadow 0.3s;
+  background-color: white;
+}
+.service-card:hover {
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* Nút PREV */
+.slick-prev {
+  left: -40px !important;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.slick-prev:before {
+  color: white;
+  font-size: 20px;
+  opacity: 1;
+}
+
+.slick-arrow:hover {
+  background-color: var(--primary-color);
+}
+
+/* Nút NEXT */
+.slick-next {
+  right: -40px !important;
+  z-index: 10;
+  background-color: rgba(0, 0, 0, 0.6);
+  color: white;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+.slick-next:before {
+  color: white;
+  font-size: 20px;
+  opacity: 1;
+}
+
+/* Thumbnail card bên dưới */
+.thumb-card {
+  background-color: var(--background-color);
+  transition: all 0.3s ease;
+  text-align: center;
+  cursor: pointer;
+}
+.thumb-card:hover {
+  background-color: var(--primary-color);
+  color: white;
+}
+.thumb-card:hover small {
+  color: white;
+}
+.thumb-card strong,
+.thumb-card small {
+  text-align: center;
+}
+
+.active-tab {
+  background-color: var(--primary-color);
+  color: white;
+  border-color: var(--primary-color);
+}
+.active-tab small {
+  color: white;
+}
+
+/* SVG trong card */
+.card-body svg {
+  display: block;
+}
+
+/* Ẩn nút trên mobile */
+@media (max-width: 767.98px) {
+  .slick-prev,
+  .slick-next {
+    display: none !important;
+  }
+}

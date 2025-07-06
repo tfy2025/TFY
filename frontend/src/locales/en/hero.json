@@ -1,0 +1,21 @@
+{
+  "hero_title": "EXPLORE THE FUTURE WITH TFY",
+  "hero_subtitle": "Technology solutions for modern businesses",
+  "hero_button": "Sign Up / Log In",
+  "hero_scroll": "↓ Scroll down to see more",
+
+  "auth_login": "Log In",
+  "auth_register": "Sign Up",
+  "auth_close": "Close",
+  "auth_name": "Full Name",
+  "auth_email": "Email",
+  "auth_phone": "Phone Number",
+  "auth_password": "Password",
+  "auth_email_or_phone": "Email or Phone",
+  "auth_or_login_with": "Or log in with",
+  "auth_role": "Role",
+  "role_user": "User",
+  "role_worker": "Worker",
+  "already_have_account": "Already have an account? ",
+  "dont_have_account": "Don't have an account? "
+}

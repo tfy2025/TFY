@@ -1,0 +1,47 @@
+/* Navbar */
+.navbar {
+  position: fixed;
+  background-color: var(--background-color);
+  height: 64px;
+  z-index: 1050;
+}
+
+.navbar .navbar-brand img {
+  max-height: 40px;
+}
+
+/* Nút menu trái */
+.navbar .btn-outline-dark {
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* Dropdown ngôn ngữ */
+.navbar .dropdown-toggle {
+  font-size: 0.9rem;
+}
+
+/* Tùy chọn trong dropdown */
+.dropdown-menu {
+  min-width: auto;
+  padding: 0.25rem 0;
+}
+
+.dropdown-item {
+  font-size: 0.9rem;
+  padding: 0.5rem 1rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .navbar .navbar-brand {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .navbar .dropdown {
+    margin-left: 0.5rem;
+  }
+}

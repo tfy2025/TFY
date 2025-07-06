@@ -1,0 +1,47 @@
+/* Làm offcanvas menu trông đẹp hơn */
+.offcanvas-menu-custom .offcanvas-header {
+  border-bottom: 1px solid #ddd;
+  background-color: #f8f9fa;
+  padding: 1rem 1.25rem;
+}
+
+.offcanvas-menu-custom .offcanvas-body {
+  padding: 1.25rem;
+}
+
+/* Tuỳ chỉnh tiêu đề menu */
+.offcanvas-menu-custom h5 {
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 0;
+}
+
+/* Style cho từng nút menu */
+.offcanvas-menu-custom .nav-link {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  padding: 0.75rem 1rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--text-color, #333) ;
+  border-radius: 5px;
+  transition: background 0.2s ease, color 0.2s ease;
+  text-align: left;
+}
+
+.offcanvas-menu-custom .nav-link:hover {
+  background-color: var(--primary-color, #0277fb);
+  color: #fff;
+}
+
+.offcanvas-menu-custom .nav-link:hover svg {
+  color: #fff;
+}
+
+/* Nếu cần icon có màu riêng */
+.offcanvas-menu-custom .nav-link svg {
+  transition: color 0.2s ease;
+  color: var(--primary-color, #0277fb);
+}

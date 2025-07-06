@@ -1,0 +1,11 @@
+{
+  "contact_title": "ĐĂNG KÝ TƯ VẤN",
+  "contact_name": "Họ và tên",
+  "contact_email": "Email",
+  "contact_phone": "Số điện thoại",
+  "contact_service": "Dịch vụ cần tư vấn",
+  "contact_select": "-- Chọn dịch vụ --",
+  "contact_message": "Nội dung cần tư vấn chi tiết",
+  "contact_submit": "Gửi thông tin",
+  "contact_success": "Gửi thành công! Chúng tôi sẽ liên hệ bạn sớm nhất."
+}

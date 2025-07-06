@@ -1,0 +1,56 @@
+
+:root {
+  --primary-color: #0c51a1;
+  --secondary-color: #6fae33;
+  --accent-color: #d7372e;
+  --background-color: #f8f9f2;
+  --text-color: #333333;
+  --orange-color: #f2881a;
+  --dark-color: #343a40;
+  --light-color: #ffffff;
+  --danger-color: #d7372e;
+  --warning-color: #ffc107;
+  --success-color: #6fae33;
+}
+
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+/* Ghim header */
+.navbar.fixed-top {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 9999;
+  background-color: white;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Các section chừa khoảng cho header */
+.fp-section {
+  padding-top: 70px; /* đúng với chiều cao header của bạn */
+  box-sizing: border-box;
+}
+
+
+#fp-nav a[href="https://alvarotrigo.com/fullPage/"],
+.fp-watermark {
+  display: none !important;
+}
+
+.container-fuild {
+  background-color: var(--background-color) ;
+}
+
+.section-title {
+  color: var(--primary-color);
+  font-weight: 600;
+  font-size: 2.5rem;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+
